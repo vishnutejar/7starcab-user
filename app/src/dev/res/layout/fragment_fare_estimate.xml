@@ -188,7 +188,7 @@
                 android:id="@+id/tv_ride_now"
                 android:layout_width="match_parent"
                 android:layout_height="?attr/btn_height"
-                android:background="@color/colorPrimary"
+                android:background="?attr/btn_bg_drawable"
                 android:gravity="center"
                 android:text="RIDE NOW"
                 android:textColor="?attr/btn_text_color"

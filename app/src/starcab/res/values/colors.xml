@@ -13,14 +13,15 @@
     <color name="color_white">#FFFFFF</color>
 
     <!-- editText color login/ sign up -->
-    <color name="et_hint_color">#90121c28</color>
-    <color name="et_text_color">#121c28</color>
-    <color name="et_bg_color">#33603435</color>
+    <color name="et_hint_color">@color/color_black</color>
+    <color name="et_text_color">@color/color_black</color>
+    <color name="et_bg_color">@color/color_white</color>
     <color name="et_img_tint_color">#000000</color>
 
-    <color name="button_bg_color">#000000</color>
+    <color name="button_bg_color">@color/red</color>
     <color name="text_link_color">#F44336</color>
     <color name="red">#9b1024</color>
+    <color name="red_100">#B70A00</color>
 
     <color name="map_my_location_color">#50033803</color>
     <color name="map_my_location_acc_color">#F8786F</color>
@@ -28,6 +29,7 @@
     <color name="color_black">#000000</color>
     <color name="color_black30">#30000000</color>
     <color name="color_green">#006600</color>
+    <color name="color_green_500">#1CC500</color>
     <color name="rating_bar_active_color">#F44336</color>
     <color name="color_white_aa">#AAffffff</color>
     <color name="color_white_trasparent">#80000000</color>

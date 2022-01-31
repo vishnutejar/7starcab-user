@@ -875,7 +875,7 @@
                         android:id="@+id/tv_ride_now"
                         android:layout_width="match_parent"
                         android:layout_height="?attr/btn_height"
-                        android:background="?attr/btn_bg_color"
+                        android:background="?attr/btn_bg_drawable"
                         android:gravity="center"
                         android:text="Confirm &amp; Book"
                         android:textColor="?attr/btn_text_color"

@@ -32,7 +32,6 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="?attr/btn_height"
-            android:background="?attr/btn_bg_color"
             android:orientation="horizontal">
 
 
@@ -43,6 +42,7 @@
                 android:layout_weight="1"
                 android:gravity="center"
                 android:text="No"
+                android:background="?attr/btn_bg_drawable"
                 android:textColor="?attr/btn_text_color"
                 android:textSize="?attr/btn_text_size"
                 app:custom_font="?attr/app_font_normal"/>
@@ -61,6 +61,7 @@
                 android:layout_weight="1"
                 android:gravity="center"
                 android:text="Yes"
+                android:background="?attr/btn_bg_drawable"
                 android:textColor="?attr/btn_text_color"
                 android:textSize="?attr/btn_text_size"
                 app:custom_font="?attr/app_font_normal"/>

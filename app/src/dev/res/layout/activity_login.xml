@@ -127,7 +127,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginTop="@dimen/dp20"
                     android:layout_marginBottom="@dimen/dp20"
-                    android:background="@drawable/red_color_rect"
+                    android:background="?attr/btn_bg_drawable"
                     android:gravity="center"
                     android:text="@string/sign_in"
                     android:textAllCaps="false"

@@ -18,7 +18,7 @@
         android:text="@string/rider"
         android:textColor="?attr/btn_text_color"
         android:textSize="?attr/btn_text_size"
-        app:custom_font="?attr/app_font_medium"/>
+        app:custom_font="?attr/app_font_medium" />
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recycler_view"

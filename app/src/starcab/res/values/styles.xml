@@ -45,8 +45,8 @@
         <item name="et_text_size">@dimen/sp16</item>
         <item name="et_height">@dimen/dp45</item>
 
-        <item name="btn_bg_drawable">@drawable/bg_button</item>
-        <item name="btn_bg_color">@color/button_bg_color</item>
+        <item name="btn_bg_drawable">@drawable/red_color_rect</item>
+        <item name="btn_bg_color">@color/red</item>
         <item name="btn_text_color">@color/color_white</item>
         <item name="btn_text_size">@dimen/sp18</item>
         <item name="btn_height">@dimen/dp50</item>

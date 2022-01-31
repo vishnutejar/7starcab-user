@@ -9,7 +9,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="@dimen/dp10"
-        android:background="@drawable/bg_dialog_white90"
+        android:background="@drawable/bg_black_rect_shap_address"
         android:gravity="center_vertical"
         android:orientation="horizontal"
         android:paddingBottom="@dimen/dp10"
@@ -29,21 +29,27 @@
                 android:layout_width="@dimen/dp15"
                 android:layout_height="@dimen/dp15"
                 android:src="@mipmap/green_dot"
-                android:tint="@color/color_green" />
+                android:tint="@color/color_green_500" />
 
             <View
-                android:id="@+id/v_line"
-                android:layout_width="@dimen/dv1"
+                android:id="@+id/v_line_green"
+                android:layout_width="@dimen/dp2"
                 android:layout_height="0dp"
                 android:layout_weight="1"
-                android:background="?attr/app_divider_color" />
+                android:background="@color/color_green_500" />
+            <View
+                android:id="@+id/v_line_red"
+                android:layout_width="@dimen/dp2"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:background="@color/red_100" />
 
             <ImageView
                 android:id="@+id/iv_red_dot"
                 android:layout_width="@dimen/dp15"
                 android:layout_height="@dimen/dp15"
                 android:src="@mipmap/red_dot"
-                android:tint="@color/red" />
+                android:tint="@color/red_100" />
 
         </LinearLayout>
 
@@ -56,7 +62,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="From:"
-                android:textColor="?attr/et_hint_text_color"
+                android:textColor="@color/color_white"
                 android:textSize="?attr/app_text_size_small"
                 app:custom_font="?attr/app_font_normal" />
 
@@ -72,8 +78,8 @@
                 android:paddingBottom="@dimen/dp5"
                 android:paddingRight="@dimen/dp5"
                 android:singleLine="true"
-                android:textColor="?attr/et_text_color"
-                android:textColorHint="?attr/et_hint_text_color"
+                android:textColor="@color/color_white"
+                android:textColorHint="@color/color_white"
                 android:textSize="?attr/app_text_size_small"
                 app:custom_font="?attr/app_font_normal" />
 
@@ -87,13 +93,13 @@
                     android:id="@+id/v_divider"
                     android:layout_width="match_parent"
                     android:layout_height="@dimen/dv1"
-                    android:background="?attr/app_divider_color" />
+                    android:background="#D7251A" />
 
                 <com.customviews.TypefaceTextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="To:"
-                    android:textColor="?attr/et_hint_text_color"
+                    android:textColor="@color/color_white"
                     android:textSize="?attr/app_text_size_small"
                     app:custom_font="?attr/app_font_normal" />
 
@@ -115,8 +121,8 @@
                         android:hint="Enter drop location"
                         android:maxLines="1"
                         android:singleLine="true"
-                        android:textColor="?attr/et_text_color"
-                        android:textColorHint="?attr/et_hint_text_color"
+                        android:textColor="@color/color_white"
+                        android:textColorHint="@color/color_white"
                         android:textSize="?attr/app_text_size_small"
                         app:custom_font="?attr/app_font_normal" />
 

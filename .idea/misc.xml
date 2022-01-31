@@ -1,5 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/activity_forgot_password.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/activity_login.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/activity_new_password.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/activity_select_address.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/activity_signup.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/activity_splash.xml" value="0.151268115942029" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/bookinghead_layout.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/custom_toast_layout.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/dialog_call_confirm.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/dialog_cancel_booking.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/dialog_country.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/dialog_favorite_confirm.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/dialog_favorite_delete.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/dialog_log_out_confirm.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/dialog_message.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/dialog_outstaion_timepicker.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/dialog_payment_mode.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/dialog_paytm_payment.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/dialog_profile.xml" value="1.0" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/dialog_profile_pic.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/dialog_promocode.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/dialog_recharge_wallet.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/dialog_remaining_payment.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/dialog_rental_cab_type.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/dialog_ride_now_confirm.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/dialog_running_booking.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/dialog_seat_available.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/dialog_term_condition.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/dialog_tolls_detail.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/errordialog.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/fragment_address_chooser.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/fragment_address_map.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/fragment_cab_type.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/fragment_cash.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/fragment_confirm_booking.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/fragment_confirm_booking_waiting.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/fragment_edit_profile.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/fragment_fare_estimate.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/fragment_fare_estimate_outstation.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/fragment_fare_estimate_outstation_detail.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/fragment_fare_estimate_rental.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/fragment_fare_estimate_sharing.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/fragment_invites.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/fragment_my_ride.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/fragment_notification.xml" value="0.1" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/fragment_payment.xml" value="0.22" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/fragment_payment_remaining.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/fragment_profile.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/fragment_ride_details.xml" value="0.1" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/fragment_selected_address.xml" value="0.22" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/fragment_support.xml" value="0.22" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/fragment_time_picker.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/fragment_trip_details.xml" value="0.12" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/fragment_verify_otp.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/fragment_wallet.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/include_leftmenu.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/item_cab_type.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/item_cancel_booking.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/item_driver_suggestion.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/item_favorite_address.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/item_load_more.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/item_my_ride.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/item_notification.xml" value="0.22" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/item_outstation_cab_type.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/item_recent_address.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/item_rental_cab_type.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/item_running_booking.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/item_selected_address.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/item_text_view.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/item_tolls.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/layout_bottom_container.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/layout_full_container.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/layout_image_notification_big.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/layout_image_notification_small.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/layout_main_container.xml" value="0.1638888888888889" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/layout_top_container.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/progress_dialog.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/dev/res/layout/toolbar_common.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/main/res/drawable/bg_bottom_line.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/main/res/drawable/bg_button.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/main/res/drawable/bg_color_gray.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/main/res/drawable/bg_dialog_white.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/main/res/drawable/bg_dialog_white90.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/main/res/drawable/bg_driver_available.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/main/res/drawable/bg_edit_text.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/main/res/drawable/bg_edit_text_rectangle.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/main/res/drawable/bg_edit_text_stroke_only.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/main/res/drawable/bg_linerlayout_white200.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/main/res/drawable/bg_more_less_arrow.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/main/res/drawable/bg_rect_gray_layered.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/main/res/drawable/bg_rect_red.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/main/res/drawable/bg_ride_later_back.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/main/res/drawable/bg_transparent.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/main/res/drawable/bg_white_border_black.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/main/res/drawable/black_circle.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/main/res/drawable/circle_solid_gray.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/main/res/layout/dialog_app_updater.xml" value="0.1796875" />
+        <entry key="..\:/Users/vishnu.teja/AndroidStudioProjects/7starcab-user/app/src/main/res/layout/otp_view_edit_text.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />

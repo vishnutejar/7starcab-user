@@ -12,13 +12,14 @@
         android:id="@+id/tv_title"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="?attr/btn_bg_color"
+        android:background="@drawable/red_color_rect"
         android:gravity="center"
         android:padding="@dimen/dp10"
         android:text="@string/rider"
+
         android:textColor="?attr/btn_text_color"
         android:textSize="?attr/btn_text_size"
-        app:custom_font="?attr/app_font_medium"/>
+        app:custom_font="?attr/app_font_medium" />
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recycler_view"

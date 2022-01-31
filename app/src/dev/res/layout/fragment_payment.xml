@@ -25,9 +25,9 @@
             android:orientation="horizontal">
 
             <LinearLayout
-                android:layout_width="0dp"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_weight=".5"
+                android:layout_weight="1"
                 android:gravity="center"
                 android:background="@drawable/bg_rounded_rect_grid"
                 android:orientation="vertical"
@@ -55,9 +55,9 @@
 
 
             <LinearLayout
-                android:layout_width="0dp"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_weight=".5"
+                android:layout_weight="1"
                 android:gravity="center"
                 android:background="@drawable/bg_rounded_rect_grid"
 
@@ -90,14 +90,14 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="@drawable/bg_rounded_rect_grid"
             android:orientation="horizontal">
 
             <LinearLayout
-                android:layout_width="0dp"
+                android:layout_width="wrap_content"
                 android:layout_height="match_parent"
-                android:layout_weight=".5"
+                android:layout_weight="1"
                 android:gravity="center"
+                android:background="@drawable/bg_rounded_rect_grid"
                 android:orientation="vertical"
                 android:paddingTop="@dimen/dp10"
                 android:paddingBottom="@dimen/dp10">
@@ -124,9 +124,9 @@
 
 
             <LinearLayout
-                android:layout_width="0dp"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_weight=".5"
+                android:layout_weight="1"
                 android:background="@drawable/bg_rounded_rect_grid"
                 android:gravity="center"
                 android:orientation="vertical"
@@ -163,7 +163,7 @@
             <LinearLayout
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:layout_weight=".5"
+                android:layout_weight="1"
                 android:background="@drawable/bg_rounded_rect_grid"
                 android:gravity="center"
                 android:orientation="vertical"
@@ -194,7 +194,7 @@
             <LinearLayout
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:layout_weight=".5"
+                android:layout_weight="1"
                 android:background="@drawable/bg_rounded_rect_grid"
                 android:gravity="center"
                 android:orientation="vertical"

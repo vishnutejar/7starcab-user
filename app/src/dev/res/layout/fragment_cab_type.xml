@@ -194,7 +194,7 @@
                 android:layout_marginBottom="@dimen/dp5"
                 android:layout_toStartOf="@+id/iv_schedule_booking"
                 android:layout_toLeftOf="@+id/iv_schedule_booking"
-                android:background="@color/colorPrimary"
+                android:background="?attr/btn_bg_drawable"
                 android:gravity="center"
                 android:orientation="horizontal">
 

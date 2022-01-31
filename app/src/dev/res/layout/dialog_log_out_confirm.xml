@@ -34,7 +34,6 @@
             android:layout_width="match_parent"
             android:layout_height="?attr/btn_height"
             android:layout_marginTop="@dimen/dp30"
-            android:background="?attr/btn_bg_color"
             android:gravity="center">
 
             <com.customviews.TypefaceTextView
@@ -45,6 +44,7 @@
                 android:gravity="center"
                 android:padding="@dimen/dp8"
                 android:text="Logout"
+                android:background="?attr/btn_bg_drawable"
                 android:textColor="?attr/btn_text_color"
                 android:textSize="?attr/btn_text_size"
                 app:custom_font="?attr/app_font_normal"/>
@@ -63,6 +63,7 @@
                 android:gravity="center"
                 android:padding="@dimen/dp8"
                 android:text="Cancel"
+                android:background="?attr/btn_bg_drawable"
                 android:textColor="?attr/btn_text_color"
                 android:textSize="?attr/btn_text_size"
                 app:custom_font="?attr/app_font_normal"/>

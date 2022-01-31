@@ -36,7 +36,7 @@
             android:id="@+id/tv_ok"
             android:layout_width="match_parent"
             android:layout_height="?attr/btn_height"
-            android:background="@color/button_bg_color"
+            android:background="?attr/btn_bg_drawable"
             android:gravity="center"
             android:text="@string/OK"
             android:textAllCaps="true"

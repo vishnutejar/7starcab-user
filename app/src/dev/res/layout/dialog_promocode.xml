@@ -5,46 +5,46 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <LinearLayout
-        android:layout_centerInParent="true"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
         android:background="?attr/app_screen_bg_color"
         android:orientation="vertical">
 
         <com.customviews.TypefaceTextView
-            android:paddingLeft="@dimen/dp10"
-            android:layout_marginLeft="@dimen/dp10"
-            android:layout_marginRight="@dimen/dp10"
-
             android:id="@+id/tv_mobile"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+
+            android:layout_marginLeft="@dimen/dp10"
             android:layout_marginTop="@dimen/dp20"
+            android:layout_marginRight="@dimen/dp10"
+            android:paddingLeft="@dimen/dp10"
             android:text="@string/enter_promocode"
             android:textColor="?attr/app_text_color"
             android:textSize="?attr/app_text_size_normal"
             app:custom_font="?attr/app_font_medium" />
 
         <LinearLayout
-            android:layout_marginLeft="@dimen/dp10"
-            android:layout_marginRight="@dimen/dp10"
-            android:paddingLeft="@dimen/dp10"
-            android:paddingRight="@dimen/dp10"
             android:id="@+id/ll_phone"
             android:layout_width="match_parent"
             android:layout_height="?attr/et_height"
+            android:layout_marginLeft="@dimen/dp10"
             android:layout_marginTop="@dimen/dp10"
-            android:background="?attr/et_bg_drawable"
+            android:layout_marginRight="@dimen/dp10"
+            android:background="@drawable/bg_rect_corener"
             android:gravity="center_vertical"
-            android:orientation="horizontal">
+            android:orientation="horizontal"
+            android:paddingLeft="@dimen/dp10"
+            android:paddingRight="@dimen/dp10">
 
             <com.customviews.TypefaceEditText
-                android:layout_marginLeft="@dimen/dp5"
-                android:layout_marginRight="@dimen/dp5"
                 android:id="@+id/et_promocode"
                 android:layout_width="0dp"
-                android:layout_weight=".8"
                 android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/dp5"
+                android:layout_marginRight="@dimen/dp5"
+                android:layout_weight=".8"
                 android:background="@null"
                 android:gravity="center_vertical"
                 android:hint="@string/enter_promocode"
@@ -52,45 +52,42 @@
                 android:inputType="text"
                 android:maxLines="1"
                 android:singleLine="true"
-                app:custom_font="?attr/app_font_normal"
                 android:textColor="?attr/et_text_color"
                 android:textColorHint="?attr/et_hint_text_color"
-                android:textSize="?attr/et_text_size" />
+                android:textSize="?attr/et_text_size"
+                app:custom_font="?attr/app_font_normal" />
 
         </LinearLayout>
 
         <LinearLayout
-            android:layout_marginTop="@dimen/dp20"
             android:id="@+id/ll_footer"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_alignParentBottom="true"
+            android:layout_marginTop="@dimen/dp20"
             android:orientation="horizontal">
 
             <com.customviews.TypefaceTextView
-                android:background="?attr/btn_bg_color"
-
                 android:id="@+id/tv_cancel"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/dp2"
                 android:layout_weight="1"
+                android:background="?attr/btn_bg_drawable"
                 android:gravity="center"
                 android:padding="@dimen/dp15"
                 android:text="@string/cancel"
                 android:textColor="?attr/btn_text_color"
                 android:textSize="?attr/app_text_size_normal"
-                app:custom_font="?attr/app_font_normal"
-                android:layout_marginRight="@dimen/dp2"/>
+                app:custom_font="?attr/app_font_normal" />
 
             <com.customviews.TypefaceTextView
-
-                android:background="?attr/btn_bg_color"
-
                 android:id="@+id/tv_apply"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="@dimen/dp2"
                 android:layout_weight="1"
+                android:background="?attr/btn_bg_drawable"
                 android:gravity="center"
                 android:padding="@dimen/dp15"
                 android:text="@string/Apply"
